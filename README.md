@@ -10,9 +10,8 @@ A machine learning system which takes a comment as an input and ranks it as offe
 A data set with 6182 comments, extracted from mulitple online platforms like Youtube, Twitter etc..
 
 ### Procedure
-<hr>
 
-#### Preproccess and Text-Cleaning
+* #### Preproccess and Text-Cleaning
 
 #### Split data (train & test)
 
