@@ -11,7 +11,7 @@ A data set with 6182 comments, extracted from mulitple online platforms like You
 
 ### Procedure
 
-* #### Preproccess and Text-Cleaning.
+* #### Preprocess and Text-Cleaning.
 
 * #### Split data (train & test).
 
