@@ -13,16 +13,16 @@ A data set with 6182 comments, extracted from mulitple online platforms like You
 
 * #### Preproccess and Text-Cleaning
 
-#### Split data (train & test)
+* #### Split data (train & test)
 
-#### Train data with classification algorithms: 
+* #### Train data with classification algorithms: 
 1. Naive Bayes
 2. SVM
 3. Random Forrest
 
-#### Experimented with TF-IDF and POS
+* #### Experimented with TF-IDF and POS
 
-#### Improvements
+* #### Improvements
 1. Lemmatization
 2. Stopwords
 3. Bigrams
