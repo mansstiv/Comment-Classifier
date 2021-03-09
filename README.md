@@ -9,18 +9,21 @@ A machine learning system which takes a comment as an input and ranks it as offe
 ### Input
 A data set with 6182 comments, extracted from mulitple online platforms like Youtube, Twitter etc..
 
-### Preproccess and Text-Cleaning
+### Procedure
+<hr>
 
-### Split data (train & test)
+#### Preproccess and Text-Cleaning
 
-### Train data with classification algorithms: 
+#### Split data (train & test)
+
+#### Train data with classification algorithms: 
 1. Naive Bayes
 2. SVM
 3. Random Forrest
 
-### Experimented with TF-IDF and POS
+#### Experimented with TF-IDF and POS
 
-### Improvements
+#### Improvements
 1. Lemmatization
 2. Stopwords
 3. Bigrams
