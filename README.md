@@ -7,20 +7,20 @@ A machine learning system which takes a comment as an input and ranks it as offe
 3. scikit-learn
 
 ### Input
-A data set with 6182 comments, extracted from mulitple online platforms like Youtube, Twitter etc..
+A data set with 6182 comments, extracted from mulitple online platforms like Youtube, Twitter etc...
 
 ### Procedure
 
-* #### Preproccess and Text-Cleaning
+* #### Preproccess and Text-Cleaning.
 
-* #### Split data (train & test)
+* #### Split data (train & test).
 
 * #### Train data with classification algorithms: 
   1. Naive Bayes
   2. SVM
   3. Random Forrest
 
-* #### Experimented with TF-IDF and POS
+* #### Experimented with TF-IDF (term frequency-inverse document frequency) and POS (parts of speech).
 
 * #### Improvements
   1. Lemmatization
