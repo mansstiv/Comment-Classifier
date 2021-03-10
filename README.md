@@ -15,10 +15,12 @@ A data set with 6182 comments, extracted from mulitple online platforms like You
 
 * #### Split data (train & test).
 
-* #### Train data with classification algorithms: 
+* #### Train data with the procedure of k-fold cross validation, under the following classification algorithms: 
   1. Naive Bayes
   2. SVM
   3. Random Forrest
+
+* #### Use test data to evaluate algorithms.
 
 * #### Experimented with TF-IDF (term frequency-inverse document frequency) and POS (parts of speech).
 
@@ -27,3 +29,5 @@ A data set with 6182 comments, extracted from mulitple online platforms like You
   2. Stopwords
   3. Bigrams
   4. Laplace Smoothing
+
+
